@@ -7,6 +7,6 @@ It generates random advice.
 
 ## Build
 
-It build using advice slip api[https://api.adviceslip.com/]
+It is build using advice slip api [https://api.adviceslip.com/]
 
 
